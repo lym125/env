@@ -1,4 +1,5 @@
 {
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
 	"font_size": 12,
 	"ignored_packages":
 	[
@@ -7,5 +8,6 @@
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
