@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"DocBlockr",
 		"EditorConfig",
 		"Package Control",
 		"SideBarEnhancements"
