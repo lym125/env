@@ -6,8 +6,10 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Blade Snippets",
 		"DocBlockr",
 		"EditorConfig",
+		"Laravel Blade Highlighter",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
