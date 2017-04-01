@@ -15,6 +15,7 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-php",
 		"Theme - Flatland"
 	]
 }
