@@ -39,7 +39,7 @@
   // @param    {MyCustomClass} myVariable desc1
   // @return   {String}        foo        desc2
   // @property {Number}        blahblah   desc3
-  "jsdocs_align_tags": "deep",
+  "jsdocs_align_tags": "shallow",
 
   // Any additional boilerplate tags which should be added to each block. Should be an array of strings.
   // Note that this only applies when a docblock is opened directly preceding a function.
