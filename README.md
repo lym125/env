@@ -1,4 +1,4 @@
-## Sublime Syncing
+## Sublime Env
 
 通过 [Package Control](https://packagecontrol.io/installation) 的 Sync 特性，同步不同设备下 [Sublime Text 3](http://www.sublimetext.com/3) 的配置及安装的插件。
 
